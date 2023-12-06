@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TechFusion Innovations</title>
+<style>
+/* Estilos anteriores... */
+
+.subscribe {
+text-align: center;
+padding: 2rem;
+background-color: #007bff;
+color: #fff;
+}
+
+.subscribe input {
+padding: 0.5rem;
+margin: 0.5rem;
+width: 60%;
+border: none;
+}
+
+.subscribe button {
+padding: 0.5rem 2rem;
+margin: 0.5rem;
+background-color: #fff;
+color: #007bff;
+border: none;
+cursor: pointer;
+}
+
+.innovation {
+text-align: center;
+margin: 2rem 0;
+}
+
+.innovation img {
+max-width: 100%;
+height: auto;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+</style>
+</head>
+<body>
+<header>
+<!-- Contenido del encabezado... -->
+</header>
+<section>
+<!-- Contenido anterior... -->
+<div class="innovation">
+<img src="innovation-image.jpg" alt="Próximas innovaciones">
+<p>Descubre nuestras próximas innovaciones.</p>
+</div>
+</section>
+<div class="subscribe">
+<h2>Suscríbete para recibir actualizaciones</h2>
+<input type="email" placeholder="Tu correo electrónico">
+<button type="submit">Suscribirse</button>
+</div>
+<footer>
+<!-- Contenido del pie de página... -->
+</footer>
+</body>
+</html>
